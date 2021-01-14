@@ -1,0 +1,2 @@
+.list__name{font-size:18px;font-style:italic}.list__item{display:flex;justify-content:space-between;border:2px solid red;padding:0 20px;font-family:Arial,Helvetica,sans-serif;list-style:none}.list__item:not(:last-child){margin-bottom:10px}.list__item--done{border-color:green}.list__result{align-self:flex-end}.list{margin:0 auto;max-width:800px}
+/*# sourceMappingURL=main.a49b05e2.chunk.css.map */
